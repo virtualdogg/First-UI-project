@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_more_horiz</name>
+   <tag></tag>
+   <elementGuidId>39e26a62-5ee2-4b8f-b8ce-34c4fff38532</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='educationsDiv']/crud-panel/div/div/list/table/thead/tr/th/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.material-icons.icons-color.orange-text</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'more_horiz' or . = 'more_horiz')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;more_horiz&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>aa097cc5-7b7a-4662-807f-93f63ed2d743</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>material-icons icons-color orange-text</value>
+      <webElementGuid>f6ec5861-54c0-434e-8a16-d3eb7e2595b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-class</name>
+      <type>Main</type>
+      <value>{'orange-text': listData.selected.length > 0}</value>
+      <webElementGuid>ec653892-8d48-4a24-a614-b5218600d7c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>more_horiz</value>
+      <webElementGuid>199898fc-2e06-486c-8663-a28bc6035d54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;educationsDiv&quot;)/crud-panel[1]/div[@class=&quot;form-div&quot;]/div[@class=&quot;list-container&quot;]/list[1]/table[@class=&quot;highlight bordered&quot;]/thead[1]/tr[1]/th[@class=&quot;list-options&quot;]/a[@class=&quot;dropdown-button dropdown&quot;]/i[@class=&quot;material-icons icons-color orange-text&quot;]</value>
+      <webElementGuid>059c178f-1d22-4ebf-be1f-7d96df8d4fcf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='educationsDiv']/crud-panel/div/div/list/table/thead/tr/th/a/i</value>
+      <webElementGuid>a248068e-3b9b-48bf-aed5-4f4b7a354796</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Timesheet'])[2]/following::i[1]</value>
+      <webElementGuid>3a9f9090-17de-4003-85ff-b2e4fbeab774</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit Request'])[2]/following::i[1]</value>
+      <webElementGuid>10e30583-6ca8-4377-bd9e-b6786eb8879c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select All'])[1]/preceding::i[1]</value>
+      <webElementGuid>c1d380b4-d746-43fe-ab9c-88946125a527</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deselect All'])[1]/preceding::i[1]</value>
+      <webElementGuid>c3bd82f8-409f-4801-a1ef-ae96c3527c49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='more_horiz']/parent::*</value>
+      <webElementGuid>7cbfc549-926d-4dfd-9d49-25bb417c6ca1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th/a/i</value>
+      <webElementGuid>d7e4d275-0a47-4aff-a9b1-eeefd5a52948</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[(text() = 'more_horiz' or . = 'more_horiz')]</value>
+      <webElementGuid>09066735-301f-4330-b6ac-0be4ac4acd21</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

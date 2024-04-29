@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_more_horizSelect AllJob Category   arro_cc7f56_1</name>
+   <tag></tag>
+   <elementGuidId>18ee86d8-8b23-404a-af5b-a12cf91cc8e8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.pim-container</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mount-vue-app']/ui-view/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#mount-vue-app div >> internal:has-text=&quot;more_horizSelect AllJob Category arrow_upward hghohrm_edit Craft Workersohrm_edi&quot;i >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7d06a987-2933-4316-bd7d-8b678bcc586f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pim-container</value>
+      <webElementGuid>64e89441-fb39-4dc8-a284-ced2e0a555bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>more_horizSelect AllJob Category   arrow_upward hghohrm_edit  Craft Workersohrm_edit  dadsaohrm_edit  fsohrm_edit  JC0ohrm_edit  JC1ohrm_edit  JC2ohrm_edit  JC3ohrm_edit  Laborers and Helpersohrm_edit  NJCohrm_edit  Office and Clerical Workersohrm_edit  Officials and Managersohrm_edit  Operativesohrm_edit  Professionalsohrm_edit  Sales Workersohrm_edit  Service Workersohrm_edit  Software Enggohrm_edit  Software Engineerohrm_edit  Techniciansohrm_edit Rows per page▼1020501001020501001 - 19 of 19add</value>
+      <webElementGuid>1ce7490b-48d8-41af-834b-6f395491806d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mount-vue-app&quot;)/ui-view[1]/div[@class=&quot;pim-container&quot;]</value>
+      <webElementGuid>d474a866-fdc2-4de4-8a21-e52d0d266e20</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mount-vue-app']/ui-view/div</value>
+      <webElementGuid>a241d77e-e6c8-44cb-8186-d5a2f82fc685</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Timesheet'])[2]/following::div[6]</value>
+      <webElementGuid>cae23c8f-2ad6-48c5-915b-90795fed5d90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit Request'])[3]/following::div[9]</value>
+      <webElementGuid>f11cf726-32ce-46a7-ab23-97fb66abd911</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ui-view/div</value>
+      <webElementGuid>df9aa0a1-8806-4afe-bec5-2674601e30d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'more_horizSelect AllJob Category   arrow_upward hghohrm_edit  Craft Workersohrm_edit  dadsaohrm_edit  fsohrm_edit  JC0ohrm_edit  JC1ohrm_edit  JC2ohrm_edit  JC3ohrm_edit  Laborers and Helpersohrm_edit  NJCohrm_edit  Office and Clerical Workersohrm_edit  Officials and Managersohrm_edit  Operativesohrm_edit  Professionalsohrm_edit  Sales Workersohrm_edit  Service Workersohrm_edit  Software Enggohrm_edit  Software Engineerohrm_edit  Techniciansohrm_edit Rows per page▼1020501001020501001 - 19 of 19add' or . = 'more_horizSelect AllJob Category   arrow_upward hghohrm_edit  Craft Workersohrm_edit  dadsaohrm_edit  fsohrm_edit  JC0ohrm_edit  JC1ohrm_edit  JC2ohrm_edit  JC3ohrm_edit  Laborers and Helpersohrm_edit  NJCohrm_edit  Office and Clerical Workersohrm_edit  Officials and Managersohrm_edit  Operativesohrm_edit  Professionalsohrm_edit  Sales Workersohrm_edit  Service Workersohrm_edit  Software Enggohrm_edit  Software Engineerohrm_edit  Techniciansohrm_edit Rows per page▼1020501001020501001 - 19 of 19add')]</value>
+      <webElementGuid>64d0a819-b0db-43d2-9413-ea5422739c64</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

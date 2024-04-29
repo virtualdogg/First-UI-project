@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>MAP9-162</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dff362e3-4c0b-466e-b2cb-28725ebd8278</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>8f69129b-fc8e-48b8-a45f-137b71283599</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Job Categories name</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>8f69129b-fc8e-48b8-a45f-137b71283599</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Name</value>
+      <variableId>e8d57ec6-367c-4795-8346-d1c46988ae63</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'&quot;JMMK&quot;'</defaultValue>
+      <description></description>
+      <id>e8d57ec6-367c-4795-8346-d1c46988ae63</id>
+      <masked>false</masked>
+      <name>JC</name>
+   </variable>
+</TestCaseEntity>

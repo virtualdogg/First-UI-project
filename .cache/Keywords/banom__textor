@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "094506F3F29C048FC067909F8EF79324",
+  "keywordClasses": [
+    {
+      "name": "banom.textor",
+      "keywordMethods": [
+        {
+          "name": "createRandomString",
+          "parameters": [],
+          "javadoc": "/**\n\t * Refresh browser\n\t */"
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

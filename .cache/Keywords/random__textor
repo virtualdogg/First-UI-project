@@ -1,0 +1,15 @@
+{
+  "keywordFileContentHash": "C0578591F7CF3B40D3F4AEB3313D275E",
+  "keywordClasses": [
+    {
+      "name": "random.textor",
+      "keywordMethods": [
+        {
+          "name": "createRandomString",
+          "parameters": []
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}
