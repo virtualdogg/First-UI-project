@@ -34,7 +34,7 @@ WebUI.click(findTestObject('Object Repository/Job Categories/Page_Employee Manag
 
 WebUI.click(findTestObject('Object Repository/Job Categories/Page_Job/i_add'))
 
-WebUI.setText(findTestObject('Object Repository/Job Categories/Page_Job/input_Add Job Category_name'), 'hg,mn')
+WebUI.setText(findTestObject('Object Repository/Job Categories/Page_Job/input_Add Job Category_name'), 'hg,mvgn')
 
 WebUI.click(findTestObject('Object Repository/Job Categories/Page_Job/a_Cancel'))
 
